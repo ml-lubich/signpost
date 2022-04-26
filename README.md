@@ -3,11 +3,7 @@ CONTENTS:
 
 README                 README file.
 
-Makefile               See the comments in it for the targets provided.  Those of
-                       you using Eclipse will need it on the instructional
-                       machines (the commands 'make' and 'make check' must
-                       work correctly on your submission, regardless of
-                       which editor or IDE you used).
+Makefile               See the comments in it for the targets provided.
 
 signpost/
 
